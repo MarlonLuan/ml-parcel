@@ -1,0 +1,22 @@
+{
+    "name": "build-producao",
+    "version": "1.0.0",
+    "description": "Build Produção",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos",
+        "typescript",
+        "build",
+        "producao"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "typescript": "3.8.3"
+    }
+}
