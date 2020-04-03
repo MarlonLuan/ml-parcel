@@ -1,0 +1,20 @@
+{
+    "name": "primeiros-passos-com-imagens",
+    "version": "1.0.0",
+    "description": "Primeiros passos com Imagens",
+    "scripts": {
+        "start": "parcel index.html img/*"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos",
+        "typescript",
+        "imagens"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "typescript": "3.8.3"
+    }
+}
