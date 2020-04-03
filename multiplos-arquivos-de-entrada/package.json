@@ -1,0 +1,20 @@
+{
+    "name": "multiplos-arquivos-de-entrada",
+    "version": "1.0.0",
+    "description": "Múltiplos arquivos de entrada",
+    "scripts": {
+        "start": "parcel index.html about.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos",
+        "typescript",
+        "múltiplas entradas"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "typescript": "3.8.3"
+    }
+}
