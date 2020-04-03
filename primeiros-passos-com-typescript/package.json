@@ -1,0 +1,19 @@
+{
+    "name": "primeiros-passos-com-typescript",
+    "version": "1.0.0",
+    "description": "Primeiros passos com Typescript",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos",
+        "typescript"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "typescript": "3.8.3"
+    }
+}
