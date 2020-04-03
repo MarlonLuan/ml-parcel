@@ -1,0 +1,22 @@
+{
+    "name": "bibliotecas-externas",
+    "version": "1.0.0",
+    "description": "Bibliotecas Externas",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "typescript",
+        "build",
+        "bibliotecas externas"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "@types/lodash": "4.14.149",
+        "lodash": "^4.17.15",
+        "parcel-bundler": "1.12.4",
+        "typescript": "3.8.3"
+    }
+}
