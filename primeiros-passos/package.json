@@ -1,0 +1,17 @@
+{
+    "name": "primeiros-passos",
+    "version": "1.0.0",
+    "description": "Primeiros passos com Parcel",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4"
+    }
+}
