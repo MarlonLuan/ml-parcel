@@ -1,0 +1,13 @@
+{
+    "name": "ml-parcel",
+    "version": "1.0.0",
+    "description": "Exemplos utilizando Parcel JS",
+    "keywords": [
+        "parcel",
+        "exemplos"
+    ],
+    "author": "Marlon Luan",
+    "scripts": {
+        "prettier": "prettier --write \"{,**/**}*\""
+    }
+}
