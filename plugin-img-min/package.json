@@ -1,0 +1,22 @@
+{
+    "name": "plugin-img-min",
+    "version": "1.0.0",
+    "description": "Plugin minificar Imagens",
+    "scripts": {
+        "start": "parcel build index.html img/*"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "typescript",
+        "imagens",
+        "plugins",
+        "minificar"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "parcel-plugin-imagemin": "4.0.1",
+        "typescript": "3.8.3"
+    }
+}
