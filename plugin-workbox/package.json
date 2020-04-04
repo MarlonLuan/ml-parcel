@@ -1,0 +1,21 @@
+{
+    "name": "plugin-workbox",
+    "version": "1.0.0",
+    "description": "Plugin Workbox",
+    "scripts": {
+        "start": "parcel index.html about.html"
+    },
+    "keywords": [
+        "parcel",
+        "exemplos",
+        "primeiros-passos",
+        "typescript",
+        "múltiplas entradas"
+    ],
+    "author": "Marlon Luan",
+    "devDependencies": {
+        "parcel-bundler": "1.12.4",
+        "parcel-plugin-workbox": "^0.2.0",
+        "typescript": "3.8.3"
+    }
+}
